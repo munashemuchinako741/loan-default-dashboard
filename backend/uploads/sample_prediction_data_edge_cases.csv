@@ -1,0 +1,11 @@
+Age,Income,LoanAmount,CreditScore,MonthsEmployed,NumCreditLines,InterestRate,LoanTerm,DTIRatio,EmploymentType,HasCoSigner,HasDependents
+18,0,0,300,0,0,0,0,0,Unemployed,No,No
+99,1000000,1000000,850,600,20,0.01,360,0.01,Full-time,Yes,Yes
+30,50000,0,600,12,3,5,24,0.5,Part-time,No,No
+45,70000,20000,400,36,5,10,48,0.8,Self-employed,Yes,Yes
+22,30000,15000,650,6,2,7,12,0.6,Unemployed,No,Yes
+40,0,10000,700,24,4,5,36,0.4,Full-time,No,No
+35,60000,5000,720,48,6,4,36,0.2,Full-time,Yes,No
+28,45000,12000,680,18,3,6,24,0.35,Part-time,No,Yes
+50,80000,25000,750,60,8,5,60,0.25,Self-employed,Yes,No
+60,40000,10000,620,120,5,7,36,0.5,Unemployed,No,No
